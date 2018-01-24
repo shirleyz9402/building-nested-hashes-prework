@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  :hero[status] => "dead"
+  hero[status] => "dead"
 
   
 
